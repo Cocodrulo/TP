@@ -24,5 +24,5 @@ Hay dos tipo de salas, pequeñas (2 a 3 personas) y grandes (2 a 5 personas).
 -   Recibe el nombre del hilo (ej: "R1") y demás parámetros necesarios.
 -   Debe hacer las acciones a continuación N_VECES.
 -   Intenta reservar una sala, imprimiendo en pantalla "Solicitando sala para n estudiantes", si la solicitud es rechazada, debe imprimir en pantalla "Solicitud rechazada para n estudiantes". Si la solicitud es aceptada debe imprimir "Asignada sala tipo" siendo tipo simple o grande.
--   luego esperará un tiempo (del getter del main), antes imprimiendo "usando sala" y luego liberará la sala diciendo "sala liberada".
+-   Luego esperará un tiempo (del getter del main), antes imprimiendo "usando sala" y luego liberará la sala diciendo "sala liberada".
 -   Luego libera el tiempo de CPU.

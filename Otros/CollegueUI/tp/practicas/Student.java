@@ -1,8 +1,8 @@
 package tp.practicas;
 
-import java.util.List;
-import java.util.Collection;
 import java.util.ArrayList;
+import java.util.Collection;
+import java.util.List;
 
 /**
  * Implement a college student.
@@ -14,7 +14,7 @@ public class Student {
     
     final public int id;
     public String name;
-    private List<Course> courseList;
+    private final List<Course> courseList;
     
     public Student(int id, String name) {
         this.id = id;
@@ -111,9 +111,7 @@ public class Student {
         if(this == obj) return true;
         if(!(obj instanceof Student)) return false;
         Student other = (Student)obj;
-        if (other.getId() != this.id) return false;
-        
-        return true;
+        return other.getId() == this.id;
     }
     
     /**

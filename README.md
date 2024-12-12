@@ -16,6 +16,6 @@ El primer parcial de la asignatura consta de saber construir una aplicación com
 
 En este repositorio actualmente contamos con los siguientes ejemplos:
 
--   **[Ejemplo 01:](./Primer Examen/Ejemplo 01/FirstExample.md "Ejemplo 01")** Sistema de biblioteca.
--   **[Ejemplo 02:](./Primer Examen/Ejemplo 02/SecondExample.md "Ejemplo 02")** Sistema de agenda de contactos.
--   **[Ejemplo 03:](./Primer Examen/Ejemplo 03/ThirdExample.md "Ejemplo 03")** Sistea de base de datos de vehículos.
+-   **[Ejemplo 01:](https://github.com/Cocodrulo/TP/tree/main/Primer%20Examen/Ejemplo%2001/FirstExample.md "Ejemplo 01")** Sistema de biblioteca.
+-   **[Ejemplo 02:](https://github.com/Cocodrulo/TP/tree/main/Primer%20Examen/Ejemplo%2002/SecondExample.md "Ejemplo 02")** Sistema de agenda de contactos.
+-   **[Ejemplo 03:](https://github.com/Cocodrulo/TP/tree/main/Primer%20Examen/Ejemplo%2003/ThirdExample.md "Ejemplo 03")** Sistea de base de datos de vehículos.

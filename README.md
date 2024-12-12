@@ -34,3 +34,9 @@ En este repositorio contamos con los siguientes ejemplos:
 
 -   **[Ejemplo 01:](https://github.com/Cocodrulo/TP/tree/main/Segundo%20Examen/Ejemplo%2001/FirstExample.md "Ejemplo 01")** Centro universitarios con salas de estudio.
 -   **[Ejemplo 02:](https://github.com/Cocodrulo/TP/tree/main/Segundo%20Examen/Ejemplo%2002/SecondExample.md "Ejemplo 02")** Servicio de computación en la nube.
+
+## Otros
+
+También nos encontramos con ejemplos de otras prácticas, que aún no cayendo en exámenes, puede ser interesante echar uns vistazo. Ej: Interfacez gráficas:
+
+-   [CollegueUI:](https://github.com/Cocodrulo/TP/blob/main/Otros/CollegueUI/CollegeUI.md "CollegueUI") Interfaz de uso escolar para matricular a estudiantes en asignaturas.

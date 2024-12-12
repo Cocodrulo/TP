@@ -1,7 +1,7 @@
 import tp.examen.Book;
 import tp.examen.Librarian;
 
-public class Main {
+public class SoftwareMain {
     public static void main(String[] args) {
         Book book1 = new Book("1984", 123456, "Science Fiction");
         Book book2 = new Book("To Kill a Mockingbird", 234567, "Fiction");
